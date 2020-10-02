@@ -100,7 +100,7 @@ public class MemberController {
     }
 
     @Operation(
-            summary = "Create new member",
+            summary = "Create a new member",
             description = "Create a new member",
             tags = "member"
     )
